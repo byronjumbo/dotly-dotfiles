@@ -1,4 +1,4 @@
-export JAVA_HOME='/home/dani/.jdks/corretto-17.0.2/'
+export JAVA_HOME="$HOME/.jdks/corretto-17.0.2/"
 export GEM_HOME="$HOME/.gem"
 export GOPATH="$HOME/.go"
 
@@ -22,7 +22,7 @@ export path=(
   "$HOME/.cargo/bin"
   "$HOME/.local/bin"
   "/usr/local/opt/ruby/bin"
-  "/home/dani/.gem/bin"
+  "$HOME/.gem/bin"
   "/usr/local/opt/python/libexec/bin"
   "/opt/homebrew/bin"
   "/usr/local/bin"
